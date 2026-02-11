@@ -12,6 +12,7 @@
    - 顏色
 3. 按下「套用設定」即可更新動畫
 
+
 ## 為什麼用 canvas
 
 - 適合做高頻率動畫更新（`requestAnimationFrame`）
